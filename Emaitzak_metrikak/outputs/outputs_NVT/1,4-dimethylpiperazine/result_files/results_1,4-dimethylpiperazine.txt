@@ -1,0 +1,11 @@
+---------------------------------------------------------
+Current time:  Sun Mar  3 12:05:40 2024
+Simulatutako molekula: 1,4-dimethylpiperazine 
+
+[Simulation in NVT-NVTnp]
+Time needed for calculating the solvated system: 54.67664457559586 mins =  0.9112774095932643 h
+Solvated, free energy difference: -184.45707094909065 kJ/mol
+Vacuum, free energy difference: -231.89017766520544 kJ/mol
+Solvatation free energy NVT-NVTnp: -47.43310671611479 kJ/mol = -11.336784587981546 kcal/mol
+
+

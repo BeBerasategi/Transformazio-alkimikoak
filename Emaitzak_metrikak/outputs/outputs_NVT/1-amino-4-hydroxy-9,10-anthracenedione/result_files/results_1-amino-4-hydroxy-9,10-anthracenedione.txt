@@ -1,0 +1,11 @@
+---------------------------------------------------------
+Current time:  Fri Jun  7 04:01:55 2024
+Simulatutako molekula: 1-amino-4-hydroxy-9,10-anthracenedione 
+
+[Simulation in NVT-NVTnp]
+Time needed for calculating the solvated system: 58.523476664225264 mins =  0.9753912777370877 h
+Solvated, free energy difference: 150.38515462786384 kJ/mol
+Vacuum, free energy difference: 93.69630536604306 kJ/mol
+Solvatation free energy NVT-NVTnp: -56.68884926182078 kJ/mol = -13.548960148618733 kcal/mol
+
+

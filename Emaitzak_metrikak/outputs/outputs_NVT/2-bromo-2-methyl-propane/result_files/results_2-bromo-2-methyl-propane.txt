@@ -1,0 +1,11 @@
+---------------------------------------------------------
+Current time:  Fri Jun  7 06:23:31 2024
+Simulatutako molekula: 2-bromo-2-methyl-propane 
+
+[Simulation in NVT-NVTnp]
+Time needed for calculating the solvated system: 55.85002318223317 mins =  0.9308337197038863 h
+Solvated, free energy difference: 36.96288215107414 kJ/mol
+Vacuum, free energy difference: 35.51922285685718 kJ/mol
+Solvatation free energy NVT-NVTnp: -1.4436592942169568 kJ/mol = -0.345042852346309 kcal/mol
+
+
