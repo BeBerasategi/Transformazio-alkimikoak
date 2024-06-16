@@ -10,7 +10,13 @@ Nire Gradu Amaierako Lana osatzen duen errepositorioa da hau. Lan honetan dinami
   <img src="/Molekulen_irudiak_VMD/11.png" width="100" /> 
   <img src="/Molekulen_irudiak_VMD/21.png" width="100" /> 
   <img src="/Molekulen_irudiak_VMD/23.png" width="100" />
-  <img src="/Molekulen_irudiak_VMD/28.png" width="100" /> 
+  <img src="/Molekulen_irudiak_VMD/28.png" width="100" />
+  <img src="/Molekulen_irudiak_VMD/5.png" width="100" /> 
+  <img src="/Molekulen_irudiak_VMD/6.png" width="100" /> 
+  <img src="/Molekulen_irudiak_VMD/14.png" width="100" /> 
+  <img src="/Molekulen_irudiak_VMD/27.png" width="100" /> 
+  <img src="/Molekulen_irudiak_VMD/25.png" width="100" /> 
+  <img src="/Molekulen_irudiak_VMD/16.png" width="100" /> 
 </p>
 
 ## Erabilera
