@@ -1,0 +1,13 @@
+---------------------------------------------------------
+Current time:  Tue Mar  5 21:29:40 2024
+Simulatutako molekula: (2Z)-3,7-dimethylocta-2,6-dien-1-ol 
+
+[Simulation in NPT-NVTnp]
+Time needed for calculating the solvated system: 66.42257920503616 mins =  1.1070429867506026 h
+Solvated, free energy difference: 45.74786836427637 kJ/mol
+Time needed for calculating the vacuum system: 24.349761923154194 mins =  0.40582936538590325 h
+Vacuum, free energy difference: 39.28512288560084 kJ/mol
+
+Solvatation free energy NPT-NVTnp: -6.462745478675529 kJ/mol = -1.544633240601226 kcal/mol
+
+

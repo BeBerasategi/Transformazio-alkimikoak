@@ -1,0 +1,22 @@
+---------------------------------------------------------
+Current time:  Sat Mar  2 12:58:12 2024
+Simulatutako molekula: 1,4-dioxane 
+
+[Simulation in NPT-NVTnp]
+---------------------------------------------------------
+Current time:  Sat Mar  2 13:00:33 2024
+Simulatutako molekula: 1,4-dioxane 
+
+[Simulation in NPT-NVTnp]
+Time needed for calculating the solvated system: 62.73822400569916 mins =  1.0456370667616526 h
+Solvated, free energy difference: -53.175283372133634 kJ/mol
+Time needed for calculating the vacuum system: 19.86673766374588 mins =  0.3311122943957647 h
+Vacuum, free energy difference: -69.4568988346588 kJ/mol
+Solvatation free energy NPT-NVTnp: -16.281615462525167 kJ/mol = -3.891399489131254 kcal/mol
+
+
+---------------------------------------------------------
+Current time:  Sat Mar  2 21:42:28 2024
+Simulatutako molekula: 1,4-dioxane 
+
+[Simulation in NPT-NVTnp]
