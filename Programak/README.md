@@ -1,0 +1,1 @@
+`Hasierako simulazioak` BCB taldearen *calmodulin* clusterrean egin dira. `Produkzio simulazioak` egiteko, DIPC-ren *hyperion* clusterra erabili da. Biek darabilte *Slurm Workload Manager*-a.
