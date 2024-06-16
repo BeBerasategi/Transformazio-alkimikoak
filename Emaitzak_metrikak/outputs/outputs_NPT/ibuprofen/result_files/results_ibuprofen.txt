@@ -1,0 +1,13 @@
+---------------------------------------------------------
+Current time:  Tue Mar  5 14:31:16 2024
+Simulatutako molekula: ibuprofen 
+
+[Simulation in NPT-NVTnp]
+Time needed for calculating the solvated system: 65.22691625356674 mins =  1.087115270892779 h
+Solvated, free energy difference: 156.36917263291411 kJ/mol
+Time needed for calculating the vacuum system: 25.43261258204778 mins =  0.423876876367463 h
+Vacuum, free energy difference: 132.45176106328418 kJ/mol
+
+Solvatation free energy NPT-NVTnp: -23.917411569629934 kJ/mol = -5.716398558706963 kcal/mol
+
+

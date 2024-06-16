@@ -1,0 +1,12 @@
+---------------------------------------------------------
+Current time:  Sun Mar  3 05:17:20 2024
+Simulatutako molekula: cyclohexane 
+
+[Simulation in NPT-NVTnp]
+Time needed for calculating the solvated system: 61.62877633174261 mins =  1.02714627219571 h
+Solvated, free energy difference: -8.263221957282749 kJ/mol
+Time needed for calculating the vacuum system: 20.868254419167837 mins =  0.34780424031946394 h
+Vacuum, free energy difference: -2.5558621594787794 kJ/mol
+Solvatation free energy NPT-NVTnp: 5.707359797803969 kJ/mol = 1.3640917298766655 kcal/mol
+
+

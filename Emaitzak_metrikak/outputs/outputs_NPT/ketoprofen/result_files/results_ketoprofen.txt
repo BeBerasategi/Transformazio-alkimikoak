@@ -1,0 +1,13 @@
+---------------------------------------------------------
+Current time:  Tue Mar  5 17:00:58 2024
+Simulatutako molekula: ketoprofen 
+
+[Simulation in NPT-NVTnp]
+Time needed for calculating the solvated system: 65.42668446699778 mins =  1.0904447411166298 h
+Solvated, free energy difference: 108.9178580207593 kJ/mol
+Time needed for calculating the vacuum system: 25.7971816500028 mins =  0.4299530275000466 h
+Vacuum, free energy difference: 49.43475340404342 kJ/mol
+
+Solvatation free energy NPT-NVTnp: -59.48310461671588 kJ/mol = -14.216803206672054 kcal/mol
+
+

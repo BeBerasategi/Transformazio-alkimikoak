@@ -1,0 +1,12 @@
+---------------------------------------------------------
+Current time:  Sun Mar  3 08:23:06 2024
+Simulatutako molekula: propan-1-ol 
+
+[Simulation in NPT-NVTnp]
+Time needed for calculating the solvated system: 62.7163432041804 mins =  1.04527238673634 h
+Solvated, free energy difference: 10.904230493006207 kJ/mol
+Time needed for calculating the vacuum system: 19.678398259480794 mins =  0.3279733043246799 h
+Vacuum, free energy difference: -0.34523686342138493 kJ/mol
+Solvatation free energy NPT-NVTnp: -11.24946735642759 kJ/mol = -2.6886872266796344 kcal/mol
+
+

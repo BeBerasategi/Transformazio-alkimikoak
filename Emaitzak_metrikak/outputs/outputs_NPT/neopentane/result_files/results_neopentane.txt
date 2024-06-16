@@ -1,0 +1,12 @@
+---------------------------------------------------------
+Current time:  Sun Mar  3 00:40:43 2024
+Simulatutako molekula: neopentane 
+
+[Simulation in NPT-NVTnp]
+Time needed for calculating the solvated system: 61.98409324884415 mins =  1.0330682208140691 h
+Solvated, free energy difference: 4.096644605575257 kJ/mol
+Time needed for calculating the vacuum system: 21.004464709758757 mins =  0.35007441182931265 h
+Vacuum, free energy difference: 14.641030923578182 kJ/mol
+Solvatation free energy NPT-NVTnp: 10.544386318002925 kJ/mol = 2.520168814054236 kcal/mol
+
+

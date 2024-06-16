@@ -1,0 +1,18 @@
+---------------------------------------------------------
+Current time:  Tue Mar  5 12:42:43 2024
+Simulatutako molekula: flurbiprofen 
+
+[Simulation in NPT-NVTnp]
+---------------------------------------------------------
+Current time:  Tue Mar  5 12:44:54 2024
+Simulatutako molekula: flurbiprofen 
+
+[Simulation in NPT-NVTnp]
+Time needed for calculating the solvated system: 65.34874017635981 mins =  1.089145669605997 h
+Solvated, free energy difference: 165.06963831372056 kJ/mol
+Time needed for calculating the vacuum system: 24.945465524991352 mins =  0.4157577587498559 h
+Vacuum, free energy difference: 128.63065715506738 kJ/mol
+
+Solvatation free energy NPT-NVTnp: -36.43898115865318 kJ/mol = -8.709125515930491 kcal/mol
+
+

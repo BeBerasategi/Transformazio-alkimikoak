@@ -1,0 +1,18 @@
+---------------------------------------------------------
+Current time:  Sun Mar  3 07:35:29 2024
+Simulatutako molekula: ethoxybenzene 
+
+[Simulation in NPT-NVTnp]
+---------------------------------------------------------
+Current time:  Tue Mar  5 12:33:10 2024
+Simulatutako molekula: ethoxybenzene 
+
+[Simulation in NPT-NVTnp]
+Time needed for calculating the solvated system: 63.635662444432576 mins =  1.0605943740738764 h
+Solvated, free energy difference: 54.332391100788755 kJ/mol
+Time needed for calculating the vacuum system: 21.660602605342866 mins =  0.3610100434223811 h
+Vacuum, free energy difference: 44.81427009964892 kJ/mol
+
+Solvatation free energy NPT-NVTnp: -9.518121001139832 kJ/mol = -2.2748855165248165 kcal/mol
+
+

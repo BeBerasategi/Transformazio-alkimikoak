@@ -1,0 +1,21 @@
+---------------------------------------------------------
+Current time:  Sat Mar  2 21:36:43 2024
+Simulatutako molekula: heptan-4-one 
+
+---------------------------------------------------------
+Current time:  Sat Mar  2 21:37:58 2024
+Simulatutako molekula: heptan-4-one 
+
+---------------------------------------------------------
+Current time:  Fri Jun  7 04:54:21 2024
+Simulatutako molekula: heptan-4-one 
+
+[Simulation in NPT-NVTnp]
+Time needed for calculating the solvated system: 62.6189956386884 mins =  1.0436499273114734 h
+Solvated, free energy difference: 36.129104374788966 kJ/mol
+Time needed for calculating the vacuum system: 24.22132263183594 mins =  0.40368871053059896 h
+Vacuum, free energy difference: 24.51797404503947 kJ/mol
+
+Solvatation free energy NPT-NVTnp: -11.611130329749496 kJ/mol = -2.775126751852174 kcal/mol
+
+

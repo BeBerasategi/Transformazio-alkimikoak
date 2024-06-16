@@ -10,7 +10,7 @@ Adibideak eta proiektua erabiltzeko azalpenak.
 
 ## Lizentzia
 
-```CC BY 4.0```.
+```CC BY 4.0```
 
 ## Kontaktua
 

@@ -1,0 +1,12 @@
+---------------------------------------------------------
+Current time:  Sun Mar  3 00:41:07 2024
+Simulatutako molekula: methyl_cyclopropanecarboxylate 
+
+[Simulation in NPT-NVTnp]
+Time needed for calculating the solvated system: 63.12095895608266 mins =  1.0520159826013777 h
+Solvated, free energy difference: 31.22694296173748 kJ/mol
+Time needed for calculating the vacuum system: 20.931490369637807 mins =  0.3488581728272968 h
+Vacuum, free energy difference: 13.66910855071669 kJ/mol
+Solvatation free energy NPT-NVTnp: -17.55783441102079 kJ/mol = -4.19642313838929 kcal/mol
+
+
