@@ -5,7 +5,6 @@ Nire Gradu Amaierako Lana osatzen duen errepositorioa da hau. Lan honetan dinami
 
 <p align="middle">
   <img src="/Molekulen_irudiak_VMD/1.png" width="100" />
-  <img src="/Molekulen_irudiak_VMD/2.png" width="100" /> 
   <img src="/Molekulen_irudiak_VMD/3.png" width="100" />
   <img src="/Molekulen_irudiak_VMD/7.png" width="100" /> 
   <img src="/Molekulen_irudiak_VMD/11.png" width="100" /> 
