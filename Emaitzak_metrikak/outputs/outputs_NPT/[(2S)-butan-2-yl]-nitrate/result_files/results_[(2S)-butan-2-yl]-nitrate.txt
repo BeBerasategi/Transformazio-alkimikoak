@@ -1,0 +1,13 @@
+---------------------------------------------------------
+Current time:  Fri Jun  7 00:08:16 2024
+Simulatutako molekula: [(2S)-butan-2-yl]-nitrate 
+
+[Simulation in NPT-NVTnp]
+Time needed for calculating the solvated system: 63.38227875232697 mins =  1.0563713125387828 h
+Solvated, free energy difference: 43.88857208264941 kJ/mol
+Time needed for calculating the vacuum system: 22.634038412570952 mins =  0.3772339735428492 h
+Vacuum, free energy difference: 41.349025267645246 kJ/mol
+
+Solvatation free energy NPT-NVTnp: -2.539546815004165 kJ/mol = -0.6069662559761388 kcal/mol
+
+
