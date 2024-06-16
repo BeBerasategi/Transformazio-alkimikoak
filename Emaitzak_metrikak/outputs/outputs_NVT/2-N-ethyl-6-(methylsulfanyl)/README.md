@@ -1,0 +1,1 @@
+**Note.** The original name of this directory and the files should be "2-N-ethyl-6-(methylsulfanyl)-4-N-(propan-2-yl)-1,3,5-triazine-2,4-diamine". Nevertheless, it has been necessary to change it, since it was too long to upload to GitHub.

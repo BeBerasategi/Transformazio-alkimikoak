@@ -1,0 +1,13 @@
+---------------------------------------------------------
+Current time:  Tue Mar  5 19:31:24 2024
+Simulatutako molekula: 2-N-ethyl-6-(methylsulfanyl)-4-N-(propan-2-yl)-1,3,5-triazine-2,4-diamine 
+
+[Simulation in NPT-NVTnp]
+Time needed for calculating the solvated system: 65.68610131343206 mins =  1.0947683552238676 h
+Solvated, free energy difference: 1967.410446430638 kJ/mol
+Time needed for calculating the vacuum system: 25.616532623767853 mins =  0.4269422103961309 h
+Vacuum, free energy difference: 1922.5563625567802 kJ/mol
+
+Solvatation free energy NPT-NVTnp: -44.85408387385792 kJ/mol = -10.720383335052082 kcal/mol
+
+
