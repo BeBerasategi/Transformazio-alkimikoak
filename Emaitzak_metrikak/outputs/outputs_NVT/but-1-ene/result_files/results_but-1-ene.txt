@@ -1,0 +1,11 @@
+---------------------------------------------------------
+Current time:  Sat Mar  2 23:10:21 2024
+Simulatutako molekula: but-1-ene 
+
+[Simulation in NVT-NVTnp]
+Time needed for calculating the solvated system: 56.81224362452825 mins =  0.9468707270754708 h
+Solvated, free energy difference: -14.517563822768954 kJ/mol
+Vacuum, free energy difference: -8.572578665711147 kJ/mol
+Solvatation free energy NVT-NVTnp: 5.944985157057808 kJ/mol = 1.4208855537901068 kcal/mol
+
+

@@ -1,0 +1,11 @@
+---------------------------------------------------------
+Current time:  Sun Mar  3 08:52:33 2024
+Simulatutako molekula: 3-chloroprop-1-ene 
+
+[Simulation in NVT-NVTnp]
+Time needed for calculating the solvated system: 55.52875981330872 mins =  0.925479330221812 h
+Solvated, free energy difference: -16.890473706728095 kJ/mol
+Vacuum, free energy difference: -16.73324871953612 kJ/mol
+Solvatation free energy NVT-NVTnp: 0.15722498719197375 kJ/mol = 0.037577673803053 kcal/mol
+
+

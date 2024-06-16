@@ -1,0 +1,11 @@
+---------------------------------------------------------
+Current time:  Tue Mar  5 18:00:24 2024
+Simulatutako molekula: butyric_acid 
+
+[Simulation in NVT-NVTnp]
+Time needed for calculating the solvated system: 56.48567130565643 mins =  0.9414278550942738 h
+Solvated, free energy difference: 198.89650154230924 kJ/mol
+Vacuum, free energy difference: 168.0912194463616 kJ/mol
+Solvatation free energy NVT-NVTnp: -30.805282095947632 kJ/mol = -7.3626391242704665 kcal/mol
+
+

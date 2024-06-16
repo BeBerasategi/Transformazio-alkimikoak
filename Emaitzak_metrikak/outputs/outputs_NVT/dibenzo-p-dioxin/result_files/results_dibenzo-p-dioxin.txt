@@ -1,0 +1,11 @@
+---------------------------------------------------------
+Current time:  Sun Mar  3 04:22:55 2024
+Simulatutako molekula: dibenzo-p-dioxin 
+
+[Simulation in NVT-NVTnp]
+Time needed for calculating the solvated system: 54.328120338916776 mins =  0.9054686723152796 h
+Solvated, free energy difference: -79.7319008152731 kJ/mol
+Vacuum, free energy difference: -104.56505919739908 kJ/mol
+Solvatation free energy NVT-NVTnp: -24.833158382125987 kJ/mol = -5.9352672997433045 kcal/mol
+
+

@@ -1,0 +1,11 @@
+---------------------------------------------------------
+Current time:  Sun Mar  3 01:30:11 2024
+Simulatutako molekula: cyclopentanol 
+
+[Simulation in NVT-NVTnp]
+Time needed for calculating the solvated system: 56.75448631445567 mins =  0.9459081052409278 h
+Solvated, free energy difference: 47.99002468719896 kJ/mol
+Vacuum, free energy difference: 27.40595837803742 kJ/mol
+Solvatation free energy NVT-NVTnp: -20.584066309161543 kJ/mol = -4.919709920927711 kcal/mol
+
+

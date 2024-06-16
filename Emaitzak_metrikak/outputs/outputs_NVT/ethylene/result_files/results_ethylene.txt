@@ -1,0 +1,11 @@
+---------------------------------------------------------
+Current time:  Sun Mar  3 04:21:32 2024
+Simulatutako molekula: ethylene 
+
+[Simulation in NVT-NVTnp]
+Time needed for calculating the solvated system: 54.62790995438893 mins =  0.9104651659064823 h
+Solvated, free energy difference: -27.891835970370476 kJ/mol
+Vacuum, free energy difference: -20.139072238519006 kJ/mol
+Solvatation free energy NVT-NVTnp: 7.75276373185147 kJ/mol = 1.8529550028325692 kcal/mol
+
+

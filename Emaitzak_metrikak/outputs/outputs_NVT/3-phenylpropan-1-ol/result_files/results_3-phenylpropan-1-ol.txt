@@ -1,0 +1,11 @@
+---------------------------------------------------------
+Current time:  Fri Jun  7 03:56:59 2024
+Simulatutako molekula: 3-phenylpropan-1-ol 
+
+[Simulation in NVT-NVTnp]
+Time needed for calculating the solvated system: 57.21681965192159 mins =  0.9536136608653598 h
+Solvated, free energy difference: 38.26246525797327 kJ/mol
+Vacuum, free energy difference: 9.59634025942097 kJ/mol
+Solvatation free energy NVT-NVTnp: -28.6661249985523 kJ/mol = -6.851368307493379 kcal/mol
+
+

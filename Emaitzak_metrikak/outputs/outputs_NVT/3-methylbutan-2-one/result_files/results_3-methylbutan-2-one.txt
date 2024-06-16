@@ -1,0 +1,11 @@
+---------------------------------------------------------
+Current time:  Fri Jun  7 01:32:57 2024
+Simulatutako molekula: 3-methylbutan-2-one 
+
+[Simulation in NVT-NVTnp]
+Time needed for calculating the solvated system: 55.640095341205594 mins =  0.9273349223534266 h
+Solvated, free energy difference: 46.792422022804075 kJ/mol
+Vacuum, free energy difference: 26.563558091289877 kJ/mol
+Solvatation free energy NVT-NVTnp: -20.228863931514198 kJ/mol = -4.834814515180257 kcal/mol
+
+

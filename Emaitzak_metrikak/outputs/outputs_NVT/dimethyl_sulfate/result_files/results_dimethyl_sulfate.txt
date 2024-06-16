@@ -1,0 +1,11 @@
+---------------------------------------------------------
+Current time:  Tue Mar  5 15:39:16 2024
+Simulatutako molekula: dimethyl_sulfate 
+
+[Simulation in NVT-NVTnp]
+Time needed for calculating the solvated system: 56.089115953445436 mins =  0.9348185992240906 h
+Solvated, free energy difference: 246.68547777816642 kJ/mol
+Vacuum, free energy difference: 215.98408979764952 kJ/mol
+Solvatation free energy NVT-NVTnp: -30.7013879805169 kJ/mol = -7.337807834731572 kcal/mol
+
+

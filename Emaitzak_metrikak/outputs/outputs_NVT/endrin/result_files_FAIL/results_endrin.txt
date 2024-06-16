@@ -1,0 +1,11 @@
+---------------------------------------------------------
+Current time:  Sun Mar  3 13:28:08 2024
+Simulatutako molekula: endrin 
+
+[Simulation in NVT-NVTnp]
+Time needed for calculating the solvated system: 58.2725705742836 mins =  0.9712095095713933 h
+Solvated, free energy difference: 4.952398594729853 kJ/mol
+Vacuum, free energy difference: -32.49900900183917 kJ/mol
+Solvatation free energy NVT-NVTnp: -37.45140759656903 kJ/mol = -8.951101242009806 kcal/mol
+
+

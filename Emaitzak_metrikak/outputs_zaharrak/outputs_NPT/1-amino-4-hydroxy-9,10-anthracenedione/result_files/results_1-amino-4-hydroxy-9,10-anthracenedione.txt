@@ -1,0 +1,7 @@
+---------------------------------------------------------
+Fri Dec 29 02:42:09 2023
+Simulatutako molekula: 1-amino-4-hydroxy-9,10-anthracenedione 
+
+Time needed for calculating the solvated system: 69.26353050867716 mins =  1.1543921751446193 h
+Solvated, free energy difference: 134.851490408845 kJ/mol
+

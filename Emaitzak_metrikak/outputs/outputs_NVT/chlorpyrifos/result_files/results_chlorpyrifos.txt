@@ -1,0 +1,11 @@
+---------------------------------------------------------
+Current time:  Tue Mar  5 20:29:04 2024
+Simulatutako molekula: chlorpyrifos 
+
+[Simulation in NVT-NVTnp]
+Time needed for calculating the solvated system: 60.521701180934905 mins =  1.0086950196822484 h
+Solvated, free energy difference: 617.1198731547403 kJ/mol
+Vacuum, free energy difference: 554.4704494425687 kJ/mol
+Solvatation free energy NVT-NVTnp: -62.6494237121716 kJ/mol = -14.9735716329282 kcal/mol
+
+

@@ -1,0 +1,7 @@
+---------------------------------------------------------
+Fri Dec 29 01:41:33 2023
+Simulatutako molekula: 1,4-dioxane 
+
+Time needed for calculating the solvated system: 60.51145603656769 mins =  1.008524267276128 h
+Solvated, free energy difference: -54.42391470400786 kJ/mol
+

@@ -1,0 +1,11 @@
+---------------------------------------------------------
+Current time:  Sun Mar  3 11:05:06 2024
+Simulatutako molekula: bromoform 
+
+[Simulation in NVT-NVTnp]
+Time needed for calculating the solvated system: 55.30144642194112 mins =  0.9216907736990186 h
+Solvated, free energy difference: 4.146150617068344 kJ/mol
+Vacuum, free energy difference: 0.0 kJ/mol
+Solvatation free energy NVT-NVTnp: -4.146150617068344 kJ/mol = -0.9909537803700631 kcal/mol
+
+
