@@ -1,0 +1,7 @@
+---------------------------------------------------------
+Fri Dec 29 09:20:08 2023
+Simulatutako molekula: but-1-ene 
+
+Time needed for calculating the solvated system: 62.4401846965154 mins =  1.0406697449419233 h
+Solvated, free energy difference: -20.116977482038198 kJ/mol
+

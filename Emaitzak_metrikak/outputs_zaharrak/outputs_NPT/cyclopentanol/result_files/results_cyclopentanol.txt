@@ -1,0 +1,11 @@
+---------------------------------------------------------
+Sat Dec 30 11:51:23 2023
+Simulatutako molekula: cyclopentanol 
+
+---------------------------------------------------------
+Sat Dec 30 11:59:38 2023
+Simulatutako molekula: cyclopentanol 
+
+Time needed for calculating the solvated system: 65.59330362081528 mins =  1.093221727013588 h
+Solvated, free energy difference: 47.23799461276839 kJ/mol
+

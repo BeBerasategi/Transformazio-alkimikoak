@@ -1,0 +1,10 @@
+---------------------------------------------------------
+Sat Dec 30 08:39:28 2023
+Simulatutako molekula: 1-amino-4-hydroxy-9,10-anthracenedione 
+
+Time needed for calculating the vacuum system: 18.404268002510072 mins =  0.30673780004183454 h
+Vacuum, free energy difference: 94.28273902193638 kJ/mol
+Solvated, free energy difference: 134.851490408845 kJ/mol
+Solvatation free energy (NPT, NVT np): -40.568751386908616 kJ/mol = -9.696164289414105 kcal/mol
+
+

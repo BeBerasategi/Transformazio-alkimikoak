@@ -1,0 +1,7 @@
+---------------------------------------------------------
+Fri Dec 29 07:05:49 2023
+Simulatutako molekula: 3-methylbutan-2-one 
+
+Time needed for calculating the solvated system: 63.775140229860945 mins =  1.0629190038310157 h
+Solvated, free energy difference: 40.01047308582018 kJ/mol
+

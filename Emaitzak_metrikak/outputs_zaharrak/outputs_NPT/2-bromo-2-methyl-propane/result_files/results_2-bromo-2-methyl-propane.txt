@@ -1,0 +1,7 @@
+---------------------------------------------------------
+Fri Dec 29 03:51:32 2023
+Simulatutako molekula: 2-bromo-2-methyl-propane 
+
+Time needed for calculating the solvated system: 61.01009439229965 mins =  1.0168349065383275 h
+Solvated, free energy difference: 32.11393399085429 kJ/mol
+

@@ -1,0 +1,28 @@
+---------------------------------------------------------
+Wed Dec 27 14:42:59 2023
+Simulatutako molekula: 1,4-dioxane 
+
+Time needed for calculating the solvated system: 51.877487472693126 mins =  0.8646247912115521 h
+Solvated, free energy difference: -48.49511708939201 kJ/mol
+Time needed for calculating the vacuum system: 27.928876189390817 mins =  0.4654812698231803 h
+Vacuum, free energy difference: -70.38008091081042 kJ/mol
+Solvatation free energy: -21.88496382141841 kJ/mol = -5.230631888484323 kcal/mol
+
+---------------------------------------------------------
+PROBA, BI FITXATEGI EZBERDIN ERABILITA: TEST001
+
+ONDORIOA: Bi fitxategi banatutan egiteak ez du abantailarik, programa bakarrean eta simulation, integrator
+eta estiloko objektu guztiak bikoiztuta. Beraz, bakarrarekin egingo dugu!
+
+Wed Dec 27 16:02:50 2023
+Simulatutako molekula: 1,4-dioxane 
+
+Time needed for calculating the solvated system: 50.354796882470445 mins =  0.8392466147078408 h
+
+Solvated, free energy difference: -47.89622165181941 kJ/mol
+Time needed for calculating the vacuum system: 28.396053008238475 mins =  0.4732675501373079 h
+
+Vacuum, free energy difference: -69.78252517996759 kJ/mol
+
+Solvatation free energy: -21.886303528148183 kJ/mol = -5.230952086077481 kcal/mol
+

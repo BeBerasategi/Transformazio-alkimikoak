@@ -1,0 +1,11 @@
+---------------------------------------------------------
+Thu Dec 28 21:34:58 2023
+Simulatutako molekula: 3-phenylpropan-1-ol 
+
+Time needed for calculating the solvated system: 59.04190579255422 mins =  0.984031763209237 h
+Solvated, free energy difference: 41.177951487174425 kJ/mol
+Time needed for calculating the vacuum system: 39.7423705180486 mins =  0.6623728419674767 h
+Vacuum, free energy difference: 9.552305653895234 kJ/mol
+Solvatation free energy: -31.625645833279194 kJ/mol = -7.558710763212044 kcal/mol
+
+

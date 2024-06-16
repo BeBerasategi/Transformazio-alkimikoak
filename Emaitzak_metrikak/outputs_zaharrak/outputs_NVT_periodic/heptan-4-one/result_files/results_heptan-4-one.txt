@@ -1,0 +1,11 @@
+---------------------------------------------------------
+Thu Dec 28 18:46:02 2023
+Simulatutako molekula: heptan-4-one 
+
+Time needed for calculating the solvated system: 54.9216708223025 mins =  0.9153611803717083 h
+Solvated, free energy difference: 45.10381563416776 kJ/mol
+Time needed for calculating the vacuum system: 30.403528054555256 mins =  0.506725467575921 h
+Vacuum, free energy difference: 24.522386190422765 kJ/mol
+Solvatation free energy: -20.581429443744995 kJ/mol = -4.919079694967732 kcal/mol
+
+

@@ -1,0 +1,10 @@
+---------------------------------------------------------
+Sat Dec 30 08:23:32 2023
+Simulatutako molekula: 1,4-dioxane 
+
+Time needed for calculating the vacuum system: 15.855375842253368 mins =  0.26425626403755614 h
+Vacuum, free energy difference: -70.07756605878309 kJ/mol
+Solvated, free energy difference: -54.42391470400786 kJ/mol
+Solvatation free energy (NPT, NVT np): -15.653651354775228 kJ/mol = -3.7413124652904464 kcal/mol
+
+

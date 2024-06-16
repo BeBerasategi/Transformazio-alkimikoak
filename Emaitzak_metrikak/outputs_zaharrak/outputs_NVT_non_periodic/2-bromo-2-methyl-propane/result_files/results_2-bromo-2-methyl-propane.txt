@@ -1,0 +1,10 @@
+---------------------------------------------------------
+Sat Dec 30 08:58:08 2023
+Simulatutako molekula: 2-bromo-2-methyl-propane 
+
+Time needed for calculating the vacuum system: 15.775210396448772 mins =  0.2629201732741462 h
+Vacuum, free energy difference: 35.521261919303704 kJ/mol
+Solvated, free energy difference: 32.11393399085429 kJ/mol
+Solvatation free energy (NPT, NVT np): 3.407327928449412 kJ/mol = 0.8143709198014847 kcal/mol
+
+

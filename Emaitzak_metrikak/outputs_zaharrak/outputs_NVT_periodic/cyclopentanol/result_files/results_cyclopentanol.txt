@@ -1,0 +1,11 @@
+---------------------------------------------------------
+Wed Dec 27 13:16:47 2023
+Simulatutako molekula: cyclopentanol 
+
+Time needed for calculating the solvated system: 54.61769302686056 mins =  0.9102948837810092 h
+Solvated, free energy difference: 52.0273643164204 kJ/mol
+Time needed for calculating the vacuum system: 31.527392478783927 mins =  0.5254565413130654 h
+Vacuum, free energy difference: 30.95230416901672 kJ/mol
+Solvatation free energy: -21.075060147403683 kJ/mol = -5.037060264675832 kcal/mol
+
+

@@ -1,0 +1,10 @@
+---------------------------------------------------------
+Sat Dec 30 09:48:09 2023
+Simulatutako molekula: 3-methylbutan-2-one 
+
+Time needed for calculating the vacuum system: 16.54591446320216 mins =  0.2757652410533693 h
+Vacuum, free energy difference: 26.556139936594917 kJ/mol
+Solvated, free energy difference: 40.01047308582018 kJ/mol
+Solvatation free energy (NPT, NVT np): -13.454333149225263 kJ/mol = -3.2156627985720037 kcal/mol
+
+

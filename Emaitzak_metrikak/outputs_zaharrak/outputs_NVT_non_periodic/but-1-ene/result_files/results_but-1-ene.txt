@@ -1,0 +1,10 @@
+---------------------------------------------------------
+Sat Dec 30 10:22:28 2023
+Simulatutako molekula: but-1-ene 
+
+Time needed for calculating the vacuum system: 15.585894803206125 mins =  0.25976491338676877 h
+Vacuum, free energy difference: -8.572056492906281 kJ/mol
+Solvated, free energy difference: -20.116977482038198 kJ/mol
+Solvatation free energy (NPT, NVT np): 11.544920989131917 kJ/mol = 2.7593023396586798 kcal/mol
+
+
