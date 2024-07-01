@@ -184,7 +184,7 @@ Lortutako balioak [MOBLEY Lab](https://github.com/MobleyLab/FreeSolv) taldeak eg
     <em><b>2. irudia:</b> MOBLEY Lab taldeak molekula berak simulatzean lortutako balioak.</em>
 </p>
 
-1. irudia sortzeko erabilitako datuak, esperimentalak zein simulazioen emaitzak, `emaitzak_metrikak` direktorioko [`emaitzen_laburpena_NPT_NVTnp.csv`](Emaitzak_metrikak/emaitzen_laburpena_NPT_NVTnp.csv) fitxategian aurki daitezke.
+1. irudia sortzeko erabilitako datuak, esperimentalak zein simulazioen emaitzak, `emaitzak_metrikak` direktorioko `emaitzen_laburpena_NPT_NVTnp.csv` [fitxategian](Emaitzak_metrikak/emaitzen_laburpena_NPT_NVTnp.csv) aurki daitezke.
    
 ## Lizentzia
 
