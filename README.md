@@ -164,6 +164,27 @@ Simulatutako molekulen zerrenda. Hasierako simulazioetan *Errazak I* erabili dir
         </tr>
     </tbody>
 </table>
+
+## Simulazioen emaitzak
+Emaitzarik egokienak uretako sistema NPT multzoan mugalde baldintza periodikoekin eta hutsekoa NVT multzoan mugalde baldintza periodikorik gabe simulatuta lortu dira. Energiaren estimatzailerik egokiena BAR dela ikusi da. Modu honetan lortutako datuak beheko irudian alderatzen dira datu esperimentalekin.
+
+<p align="middle">
+  <img src="/Emaitzak_metrikak/outputs/outputs_metrikak/Metrikak_guztiak_BAR_2err_SCALED.png" width="600" />
+</p>
+<p align="middle">
+    <em><b>1. irudia:</b> Lan honetan egindako simulazioen emaitzen eta balio esperimentalen arteko alderaketa. NVT-NPTnp simulazioak.</em>
+</p>
+
+Lortutako balioak [MOBLEY Lab](https://github.com/MobleyLab/FreeSolv) taldeak egindako simulazioen emaitzekin alderatu dira. Talde honek 642 molekula simulatu zituen arren, lan honetan erabilitako 29 molekulak baino ez dira irudikatu ondoko grafikoan.
+
+<p align="middle">
+  <img src="/Emaitzak_metrikak/outputs/outputs_metrikak/Metrikak_guztiak_MOBLEY.png" width="600" />
+</p>
+<p align="middle">
+    <em><b>2. irudia:</b> MOBLEY Lab taldeak molekula berak simulatzean lortutako balioak.</em>
+</p>
+
+1. irudia sortzeko erabilitako datuak, esperimentalak zein simulazioen emaitzak, `emaitzak_metrikak` direktorioko [`emaitzen_laburpena_NPT_NVTnp.csv`](Emaitzak_metrikak/emaitzen_laburpena_NPT_NVTnp.csv) fitxategian aurki daitezke.
    
 ## Lizentzia
 
